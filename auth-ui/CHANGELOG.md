@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1-beta.3](https://github.com/nicolas-mark/example-project/compare/auth-ng-v1.0.1-beta.2...auth-ng-v1.0.1-beta.3) (2024-03-28)
+
+
+### Bug Fixes
+
+* bump patch ([c8ccf6c](https://github.com/nicolas-mark/example-project/commit/c8ccf6c055a22bc99c6a1b487b67f731659034a8))
+
 ## [1.0.1-beta.2](https://github.com/nicolas-mark/example-project/compare/auth-ng-v1.0.1-beta.1...auth-ng-v1.0.1-beta.2) (2024-03-28)
 
 
