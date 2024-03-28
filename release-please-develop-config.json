@@ -1,0 +1,22 @@
+{
+    "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
+    "prerelease": true,
+    "prerelease-type": "beta",
+    "versioning": "prerelease",
+    "include-component-in-tag": true,
+    "include-v-in-tag": true,
+    "release-type": "elixir",
+    "packages": {
+        ".": {
+            "package-name": "common",
+            "release-type": "simple"
+        },
+        "auth": {
+            "package-name": "auth-ex"
+        },
+        "auth-ui": {
+            "package-name": "auth-ng",
+            "release-type": "node"
+        }
+    }
+}
