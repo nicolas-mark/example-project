@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1-beta.1](https://github.com/nicolas-mark/example-project/compare/common-v1.0.1-beta...common-v1.0.1-beta.1) (2024-03-28)
+
+
+### Bug Fixes
+
+* gitignore ([7ea4c83](https://github.com/nicolas-mark/example-project/commit/7ea4c83318101bf935264d17079d5d7a5fc7d2a8))
+
 ## [1.0.1-beta](https://github.com/nicolas-mark/example-project/compare/common-v1.0.0...common-v1.0.1-beta) (2024-03-28)
 
 
