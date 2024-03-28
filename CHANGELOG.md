@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0-beta.2](https://github.com/nicolas-mark/example-project/compare/common-v1.0.1-beta.2...common-v1.1.0-beta.2) (2024-03-28)
+
+
+### Features
+
+* **release-please:** config changes ([9e5ba8f](https://github.com/nicolas-mark/example-project/commit/9e5ba8fb43750aefd97be819e2e3563381354715))
+
+
+### Bug Fixes
+
+* .vscode settings ([0039f99](https://github.com/nicolas-mark/example-project/commit/0039f9952e75484d1bf079684304e8c46316282b))
+
 ## [1.0.1-beta.2](https://github.com/nicolas-mark/example-project/compare/common-v1.0.1-beta.1...common-v1.0.1-beta.2) (2024-03-28)
 
 
