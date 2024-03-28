@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0-beta.4](https://github.com/nicolas-mark/example-project/compare/common-v1.1.0-beta.3...common-v1.1.0-beta.4) (2024-03-28)
+
+
+### Features
+
+* **auth:** added wax_ ([6b89a5b](https://github.com/nicolas-mark/example-project/commit/6b89a5b297a13c824eca9d06bfc92751d44d9ce1))
+
 ## [1.1.0-beta.3](https://github.com/nicolas-mark/example-project/compare/common-v1.1.0-beta.2...common-v1.1.0-beta.3) (2024-03-28)
 
 
