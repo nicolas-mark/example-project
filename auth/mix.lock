@@ -1,0 +1,7 @@
+%{
+  "asn1_compiler": {:hex, :asn1_compiler, "0.1.1", "64a4e52b59d1f225878445ace2c75cd2245b13a5a81182304fd9dc5acfc8994e", [:mix], [], "hexpm", "c250d24c22f1a3f305d88864400f9ac2df55c6886e1e3a030e2946efeb94695e"},
+  "cbor": {:hex, :cbor, "1.0.1", "39511158e8ea5a57c1fcb9639aaa7efde67129678fee49ebbda780f6f24959b0", [:mix], [], "hexpm", "5431acbe7a7908f17f6a9cd43311002836a34a8ab01876918d8cfb709cd8b6a2"},
+  "jason": {:hex, :jason, "1.4.1", "af1504e35f629ddcdd6addb3513c3853991f694921b1b9368b0bd32beb9f1b63", [:mix], [{:decimal, "~> 1.0 or ~> 2.0", [hex: :decimal, repo: "hexpm", optional: true]}], "hexpm", "fbb01ecdfd565b56261302f7e1fcc27c4fb8f32d56eab74db621fc154604a7a1"},
+  "wax_": {:hex, :wax_, "0.6.4", "3c4a46c01edb000f70c5ed91316e958185872420ef116afe76e8d734b4bf4718", [:mix], [{:asn1_compiler, "~> 0.1.0", [hex: :asn1_compiler, repo: "hexpm", optional: false]}, {:cbor, "~> 1.0", [hex: :cbor, repo: "hexpm", optional: false]}, {:jason, "~> 1.1", [hex: :jason, repo: "hexpm", optional: false]}, {:x509, "~> 0.8", [hex: :x509, repo: "hexpm", optional: false]}], "hexpm", "8afc04b278a3a21c415b7198c3b17be5d7df45db48c638ac0d2fb0839e149817"},
+  "x509": {:hex, :x509, "0.8.8", "aaf5e58b19a36a8e2c5c5cff0ad30f64eef5d9225f0fd98fb07912ee23f7aba3", [:mix], [], "hexpm", "ccc3bff61406e5bb6a63f06d549f3dba3a1bbb456d84517efaaa210d8a33750f"},
+}
