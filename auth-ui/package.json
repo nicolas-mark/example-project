@@ -1,6 +1,6 @@
 {
   "name": "auth-ui",
-  "version": "1.0.1-beta",
+  "version": "1.0.1-beta.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",

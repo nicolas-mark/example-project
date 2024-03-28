@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1-beta.2](https://github.com/nicolas-mark/example-project/compare/common-v1.0.1-beta.1...common-v1.0.1-beta.2) (2024-03-28)
+
+
+### Bug Fixes
+
+* workflow ([5f32756](https://github.com/nicolas-mark/example-project/commit/5f327564a786768b63d49bf7a47d999b4bd4dff0))
+
 ## [1.0.1-beta.1](https://github.com/nicolas-mark/example-project/compare/common-v1.0.1-beta...common-v1.0.1-beta.1) (2024-03-28)
 
 
