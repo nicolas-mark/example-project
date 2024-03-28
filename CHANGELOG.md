@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0-beta.5](https://github.com/nicolas-mark/example-project/compare/common-v1.1.0-beta.4...common-v1.1.0-beta.5) (2024-03-28)
+
+
+### Bug Fixes
+
+* bump patch ([c8ccf6c](https://github.com/nicolas-mark/example-project/commit/c8ccf6c055a22bc99c6a1b487b67f731659034a8))
+
 ## [1.1.0-beta.4](https://github.com/nicolas-mark/example-project/compare/common-v1.1.0-beta.3...common-v1.1.0-beta.4) (2024-03-28)
 
 
