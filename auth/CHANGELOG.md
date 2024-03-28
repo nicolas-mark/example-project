@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.2.0-beta.1](https://github.com/nicolas-mark/example-project/compare/auth-ex-v1.1.0-beta.1...auth-ex-v1.2.0-beta.1) (2024-03-28)
+
+
+### Features
+
+* **auth:** added wax_ ([6b89a5b](https://github.com/nicolas-mark/example-project/commit/6b89a5b297a13c824eca9d06bfc92751d44d9ce1))
+* **auth:** auth elixir project ([a9553d2](https://github.com/nicolas-mark/example-project/commit/a9553d26b7b76853378468be3c04184b265ee814))
+
+
+### Bug Fixes
+
+* increment patch ([0860082](https://github.com/nicolas-mark/example-project/commit/0860082aac17874d73b3f11b9f8131c23490efba))
+
 ## [1.1.0-beta.1](https://github.com/nicolas-mark/example-project/compare/auth-ex-v1.1.0-beta...auth-ex-v1.1.0-beta.1) (2024-03-28)
 
 
