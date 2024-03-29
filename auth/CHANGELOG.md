@@ -1,12 +1,5 @@
 # Changelog
 
-## [1.2.0-beta.1](https://github.com/nicolas-mark/example-project/compare/auth-ex-v1.1.0-beta.1...auth-ex-v1.2.0-beta.1) (2024-03-28)
-
-
-### Features
-
-* **release-please:** changes ([df36766](https://github.com/nicolas-mark/example-project/commit/df36766dce6798cf59e87a5a1d39475affc7ed93))
-
 ## [1.1.0-beta.1](https://github.com/nicolas-mark/example-project/compare/auth-ex-v1.1.0-beta...auth-ex-v1.1.0-beta.1) (2024-03-28)
 
 

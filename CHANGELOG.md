@@ -1,12 +1,5 @@
 # Changelog
 
-## [1.2.0-beta.6](https://github.com/nicolas-mark/example-project/compare/common-v1.1.0-beta.6...common-v1.2.0-beta.6) (2024-03-28)
-
-
-### Features
-
-* **release-please:** changes ([df36766](https://github.com/nicolas-mark/example-project/commit/df36766dce6798cf59e87a5a1d39475affc7ed93))
-
 ## [1.1.0-beta.6](https://github.com/nicolas-mark/example-project/compare/common-v1.1.0-beta.5...common-v1.1.0-beta.6) (2024-03-28)
 
 
