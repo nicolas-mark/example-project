@@ -1,11 +1,11 @@
 # Changelog
 
-## [1.1.0-beta.7](https://github.com/nicolas-mark/example-project/compare/common-v1.1.0-beta.6...common-v1.1.0-beta.7) (2024-04-13)
+## [1.2.0-beta.6](https://github.com/nicolas-mark/example-project/compare/common-v1.1.0-beta.6...common-v1.2.0-beta.6) (2024-03-28)
 
 
-### Bug Fixes
+### Features
 
-* release-please.yml ([4a2d7be](https://github.com/nicolas-mark/example-project/commit/4a2d7befd9b204988d38dbd6ddf0ab79d4603e49))
+* **release-please:** changes ([df36766](https://github.com/nicolas-mark/example-project/commit/df36766dce6798cf59e87a5a1d39475affc7ed93))
 
 ## [1.1.0-beta.6](https://github.com/nicolas-mark/example-project/compare/common-v1.1.0-beta.5...common-v1.1.0-beta.6) (2024-03-28)
 
