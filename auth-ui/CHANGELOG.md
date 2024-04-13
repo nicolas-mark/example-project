@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.2.0-beta.1](https://github.com/nicolas-mark/example-project/compare/auth-ng-v1.2.0-beta...auth-ng-v1.2.0-beta.1) (2024-04-13)
+
+
+### Features
+
+* merge main ([957f0f6](https://github.com/nicolas-mark/example-project/commit/957f0f6fcf7159d5ad2341c9e009f16a13f42148))
+
+
+### Bug Fixes
+
+* package-lock ([a1e6603](https://github.com/nicolas-mark/example-project/commit/a1e6603e44a37485bef0b7ecf81fb3aee152ff12))
+
 ## [1.2.0-beta](https://github.com/nicolas-mark/example-project/compare/auth-ng-v1.1.0...auth-ng-v1.2.0-beta) (2024-04-13)
 
 

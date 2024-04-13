@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.3.0-beta.1](https://github.com/nicolas-mark/example-project/compare/common-v1.3.0-beta...common-v1.3.0-beta.1) (2024-04-13)
+
+
+### Features
+
+* **auth:** mix deps :ecto ([c565910](https://github.com/nicolas-mark/example-project/commit/c5659103a9d233ca034ac285c275b97b9bb78ada))
+* merge main ([957f0f6](https://github.com/nicolas-mark/example-project/commit/957f0f6fcf7159d5ad2341c9e009f16a13f42148))
+
+
+### Bug Fixes
+
+* package-lock ([a1e6603](https://github.com/nicolas-mark/example-project/commit/a1e6603e44a37485bef0b7ecf81fb3aee152ff12))
+
 ## [1.3.0-beta](https://github.com/nicolas-mark/example-project/compare/common-v1.2.0...common-v1.3.0-beta) (2024-04-13)
 
 
