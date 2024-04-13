@@ -4,7 +4,7 @@ defmodule WebAuthn.MixProject do
   def project do
     [
       app: :auth,
-      version: "1.2.0-beta.1",
+      version: "1.2.0-beta.2",
       elixir: "~> 1.14",
       start_permanent: Mix.env() == :prod,
       deps: deps()
