@@ -21,7 +21,8 @@ defmodule WebAuthn.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:wax_, "~> 0.6.0"}
+      {:wax_, "~> 0.6.0"},
+      {:ecto, "~> 3.11"}
     ]
   end
 end
