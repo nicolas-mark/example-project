@@ -20,6 +20,7 @@ jobs:
           sed -i 's/-beta[^ ]*//g' version.txt .release-please-manifest.json
           git add .
           git commit -m "chore: remove beta tags"
+          git push
 
   release:
     runs-on: ubuntu-latest
