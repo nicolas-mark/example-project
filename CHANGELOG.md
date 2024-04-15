@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.0](https://github.com/nicolas-mark/example-project/compare/common-v1.3.0-beta.1...common-v2.0.0) (2024-04-15)
+
+
+### Miscellaneous Chores
+
+* release 2.0.0 ([44a58fa](https://github.com/nicolas-mark/example-project/commit/44a58fa8293d865d57049707e9bfabf02d01a15d))
+
 ## [1.3.0-beta.1](https://github.com/nicolas-mark/example-project/compare/common-v1.3.0-beta...common-v1.3.0-beta.1) (2024-04-13)
 
 
