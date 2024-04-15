@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1-beta](https://github.com/nicolas-mark/example-project/compare/auth-ex-v2.0.0...auth-ex-v2.0.1-beta) (2024-04-15)
+
+
+### Bug Fixes
+
+* some fix ([9ad9d33](https://github.com/nicolas-mark/example-project/commit/9ad9d33b18394ab261898e24df4e2b52877eb0b6))
+
 ## [2.0.0](https://github.com/nicolas-mark/example-project/compare/auth-ex-v1.3.0-beta.1...auth-ex-v2.0.0) (2024-04-15)
 
 
