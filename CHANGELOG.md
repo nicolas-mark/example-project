@@ -1,6 +1,39 @@
 # Changelog
 
-## [1.3.0](https://github.com/nicolas-mark/example-project/compare/common-v1.2.0...common-v1.3.0) (2024-04-13)
+## [2.1.0-beta](https://github.com/nicolas-mark/example-project/compare/common-v2.0.0...common-v2.1.0-beta) (2024-04-15)
+
+
+### Features
+
+* **auth-ng:** sinon spy ([253c9b8](https://github.com/nicolas-mark/example-project/commit/253c9b87560695e520dc0529e6bc1e40d8611f93))
+
+
+### Bug Fixes
+
+* add nock ([3a7b043](https://github.com/nicolas-mark/example-project/commit/3a7b04358b2bf5dccb4b4259ced1c145d00bf4d4))
+* some fix ([9ad9d33](https://github.com/nicolas-mark/example-project/commit/9ad9d33b18394ab261898e24df4e2b52877eb0b6))
+
+## [2.0.0](https://github.com/nicolas-mark/example-project/compare/common-v1.3.0-beta.1...common-v2.0.0) (2024-04-15)
+
+
+### Miscellaneous Chores
+
+* release 2.0.0 ([44a58fa](https://github.com/nicolas-mark/example-project/commit/44a58fa8293d865d57049707e9bfabf02d01a15d))
+
+## [1.3.0-beta.1](https://github.com/nicolas-mark/example-project/compare/common-v1.3.0-beta...common-v1.3.0-beta.1) (2024-04-13)
+
+
+### Features
+
+* **auth:** mix deps :ecto ([c565910](https://github.com/nicolas-mark/example-project/commit/c5659103a9d233ca034ac285c275b97b9bb78ada))
+* merge main ([957f0f6](https://github.com/nicolas-mark/example-project/commit/957f0f6fcf7159d5ad2341c9e009f16a13f42148))
+
+
+### Bug Fixes
+
+* package-lock ([a1e6603](https://github.com/nicolas-mark/example-project/commit/a1e6603e44a37485bef0b7ecf81fb3aee152ff12))
+
+## [1.3.0-beta](https://github.com/nicolas-mark/example-project/compare/common-v1.2.0...common-v1.3.0-beta) (2024-04-13)
 
 
 ### Features
@@ -19,6 +52,7 @@
 * .release-please-manifest.json ([0131a3f](https://github.com/nicolas-mark/example-project/commit/0131a3fb00bf52e34060053649d761f08346739f))
 * .vscode settings ([0039f99](https://github.com/nicolas-mark/example-project/commit/0039f9952e75484d1bf079684304e8c46316282b))
 * added webauthn node package ([515d58a](https://github.com/nicolas-mark/example-project/commit/515d58a04be650460d2f4c27d19b9f6f1b3a0db9))
+* **auth-ex:** testing ([2078688](https://github.com/nicolas-mark/example-project/commit/2078688e6ed9e915d8047dcc0ada687fcac7c0c6))
 * bump patch ([c8ccf6c](https://github.com/nicolas-mark/example-project/commit/c8ccf6c055a22bc99c6a1b487b67f731659034a8))
 * gitignore ([7ea4c83](https://github.com/nicolas-mark/example-project/commit/7ea4c83318101bf935264d17079d5d7a5fc7d2a8))
 * increment patch ([0860082](https://github.com/nicolas-mark/example-project/commit/0860082aac17874d73b3f11b9f8131c23490efba))

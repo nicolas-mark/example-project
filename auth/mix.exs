@@ -4,7 +4,7 @@ defmodule WebAuthn.MixProject do
   def project do
     [
       app: :auth,
-      version: "1.3.0",
+      version: "2.0.1-beta",
       elixir: "~> 1.14",
       start_permanent: Mix.env() == :prod,
       deps: deps()
@@ -21,7 +21,8 @@ defmodule WebAuthn.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:wax_, "~> 0.6.0"}
+      {:wax_, "~> 0.6.0"},
+      {:ecto, "~> 3.11"}
     ]
   end
 end
