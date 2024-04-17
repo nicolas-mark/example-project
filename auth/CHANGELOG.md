@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.3.0](https://github.com/nicolas-mark/example-project/compare/auth-ex-v2.2.0...auth-ex-v2.3.0) (2024-04-17)
+
+
+### Features
+
+* testing workflow ([a2930b1](https://github.com/nicolas-mark/example-project/commit/a2930b11e57d3e2ce88346dca422d9ec18ba4db0))
+
+
+### Bug Fixes
+
+* **auth-ng:** changes ([a9a2f52](https://github.com/nicolas-mark/example-project/commit/a9a2f5294d98809dc65d09ab75347a95907ba4d1))
+
 ## [2.2.0](https://github.com/nicolas-mark/example-project/compare/auth-ex-v2.2.1...auth-ex-v2.2.0) (2024-04-17)
 
 
