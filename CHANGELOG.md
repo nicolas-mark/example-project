@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.1-beta.1](https://github.com/nicolas-mark/example-project/compare/common-v2.2.1-beta...common-v2.2.1-beta.1) (2024-04-17)
+
+
+### Bug Fixes
+
+* **auth-ng:** dev dependencies ([1e01662](https://github.com/nicolas-mark/example-project/commit/1e01662311a20903f23fefc597d89dc04167cfca))
+
 ## [2.2.1-beta](https://github.com/nicolas-mark/example-project/compare/common-v2.2.0...common-v2.2.1-beta) (2024-04-17)
 
 
