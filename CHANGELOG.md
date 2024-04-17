@@ -1,5 +1,23 @@
 # Changelog
 
+## [2.3.0](https://github.com/nicolas-mark/example-project/compare/common-v2.2.0...common-v2.3.0) (2024-04-17)
+
+
+### Features
+
+* testing workflow ([a2930b1](https://github.com/nicolas-mark/example-project/commit/a2930b11e57d3e2ce88346dca422d9ec18ba4db0))
+
+
+### Bug Fixes
+
+* **auth-ng:** changes ([a9a2f52](https://github.com/nicolas-mark/example-project/commit/a9a2f5294d98809dc65d09ab75347a95907ba4d1))
+* **auth-ng:** dev dependencies ([1e01662](https://github.com/nicolas-mark/example-project/commit/1e01662311a20903f23fefc597d89dc04167cfca))
+* release-please ([a0dcd3f](https://github.com/nicolas-mark/example-project/commit/a0dcd3f436af1f33d4666288ecb862f8ca5e4075))
+* release-please workflow ([1b6a0a4](https://github.com/nicolas-mark/example-project/commit/1b6a0a4653e9af047893dfde0328b54edad76b33))
+* release-please.yml ([53321da](https://github.com/nicolas-mark/example-project/commit/53321dab916e87485dcf787a6b1c056606c60fd9))
+* release-please.yml ([d52dee2](https://github.com/nicolas-mark/example-project/commit/d52dee26045770287cb4146fff682f9de33c0d25))
+* release-please.yml ([d60df9d](https://github.com/nicolas-mark/example-project/commit/d60df9d14d214786a4a568ecb10c1aba5446733f))
+
 ## [2.2.0](https://github.com/nicolas-mark/example-project/compare/common-v2.3.2...common-v2.2.0) (2024-04-17)
 
 
