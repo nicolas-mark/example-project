@@ -27,19 +27,21 @@ jobs:
   release:
     runs-on: ubuntu-latest
     needs: clean_versions
+    outputs:
+      release-please: ${{ steps.please.outputs.releases_created }}
     steps:
       - name: Release, please
+        id: please
         uses: google-github-actions/release-please-action@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           target-branch: ${{ github.ref_name }}
           config-file: release-please-${{ github.ref_name }}-config.json
 
-
   merge:
     runs-on: ubuntu-latest
     needs: release
-    if: github.ref_name == 'main' && needs.release.outputs.releases_created
+    if: github.ref_name == 'main' && needs.release.outputs.release-please
     steps:
       - uses: actions/checkout@v4
         with:
