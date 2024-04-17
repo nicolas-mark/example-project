@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.1-beta](https://github.com/nicolas-mark/example-project/compare/auth-ng-v2.2.0...auth-ng-v2.2.1-beta) (2024-04-17)
+
+
+### Bug Fixes
+
+* **auth-ng:** changes ([a9a2f52](https://github.com/nicolas-mark/example-project/commit/a9a2f5294d98809dc65d09ab75347a95907ba4d1))
+
 ## [2.2.0](https://github.com/nicolas-mark/example-project/compare/auth-ng-v2.0.0...auth-ng-v2.2.0) (2024-04-17)
 
 
