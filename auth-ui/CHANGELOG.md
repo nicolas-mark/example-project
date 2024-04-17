@@ -1,5 +1,23 @@
 # Changelog
 
+## [2.2.0](https://github.com/nicolas-mark/example-project/compare/auth-ng-v2.0.0...auth-ng-v2.2.0) (2024-04-17)
+
+
+### Features
+
+* **auth-ng:** sinon spy ([253c9b8](https://github.com/nicolas-mark/example-project/commit/253c9b87560695e520dc0529e6bc1e40d8611f93))
+
+
+### Bug Fixes
+
+* add nock ([3a7b043](https://github.com/nicolas-mark/example-project/commit/3a7b04358b2bf5dccb4b4259ced1c145d00bf4d4))
+* some fix ([9ad9d33](https://github.com/nicolas-mark/example-project/commit/9ad9d33b18394ab261898e24df4e2b52877eb0b6))
+
+
+### Miscellaneous Chores
+
+* release-as 2.2.0 ([ce481d4](https://github.com/nicolas-mark/example-project/commit/ce481d492e716b369a6e1de7dddb47c9ea52ed76))
+
 ## [2.0.0](https://github.com/nicolas-mark/example-project/compare/auth-ng-v2.1.0...auth-ng-v2.0.0) (2024-04-17)
 
 
