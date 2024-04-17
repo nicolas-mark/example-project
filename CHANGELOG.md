@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0-beta.2](https://github.com/nicolas-mark/example-project/compare/common-v2.1.0-beta.1...common-v2.1.0-beta.2) (2024-04-17)
+
+
+### Bug Fixes
+
+* release-please workflow ([41d5870](https://github.com/nicolas-mark/example-project/commit/41d5870ffee7f43e068064180168c31f32e5ee39))
+
 ## [2.1.0-beta.1](https://github.com/nicolas-mark/example-project/compare/common-v2.1.0-beta...common-v2.1.0-beta.1) (2024-04-17)
 
 
