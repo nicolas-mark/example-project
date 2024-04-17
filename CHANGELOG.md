@@ -1,13 +1,11 @@
 # Changelog
 
-## [2.3.1](https://github.com/nicolas-mark/example-project/compare/common-v2.3.0...common-v2.3.1) (2024-04-17)
+## [2.3.0-beta.1](https://github.com/nicolas-mark/example-project/compare/common-v2.3.0-beta...common-v2.3.0-beta.1) (2024-04-17)
 
 
 ### Bug Fixes
 
-* release-please workflow ([1b6a0a4](https://github.com/nicolas-mark/example-project/commit/1b6a0a4653e9af047893dfde0328b54edad76b33))
-* release-please.yml ([d52dee2](https://github.com/nicolas-mark/example-project/commit/d52dee26045770287cb4146fff682f9de33c0d25))
-* release-please.yml ([d60df9d](https://github.com/nicolas-mark/example-project/commit/d60df9d14d214786a4a568ecb10c1aba5446733f))
+* release-please.yml ([53321da](https://github.com/nicolas-mark/example-project/commit/53321dab916e87485dcf787a6b1c056606c60fd9))
 
 ## [2.3.0-beta](https://github.com/nicolas-mark/example-project/compare/common-v2.2.0...common-v2.3.0-beta) (2024-04-17)
 
