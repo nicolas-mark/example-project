@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.0-beta.1](https://github.com/nicolas-mark/example-project/compare/common-v2.3.0-beta...common-v2.3.0-beta.1) (2024-04-17)
+
+
+### Bug Fixes
+
+* release-please.yml ([53321da](https://github.com/nicolas-mark/example-project/commit/53321dab916e87485dcf787a6b1c056606c60fd9))
+
 ## [2.3.0-beta](https://github.com/nicolas-mark/example-project/compare/common-v2.2.0...common-v2.3.0-beta) (2024-04-17)
 
 
