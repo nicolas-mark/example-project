@@ -17,7 +17,7 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          sed -i 's/-beta[^ ]*//g' version.txt .release-please-manifest.json
+          sed -i 's/-beta[^"]*//g' version.txt .release-please-manifest.json
           git add .
           if [[ `git diff --cached --exit-code` ]]; then
             git commit -m "chore: remove beta tags"
