@@ -49,9 +49,10 @@ jobs:
       
       - name: merge main
         run: |
+          git fetch origin
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git merge main
+          git merge origin/main
           git commit -m "chore: merge main"
           git push
         
